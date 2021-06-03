@@ -13,7 +13,7 @@ const CONFIG = {
     btnReply: 'Gửi cho anh <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Anh biết mà 🥰. Yêu Na nhiều nhiều 😘😘',
-    messDesc: 'Tối nay đi uống trà sữa gần nhà hông a rước hihi.',
+    messDesc: 'Tối nay đi uống trà sữa gần nhà hông a rước hihihi.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://m.me/Ngothientin' //https://m.me/Ngothientin
 }

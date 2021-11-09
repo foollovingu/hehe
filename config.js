@@ -12,7 +12,7 @@ const CONFIG = {
     question:'Trên thế giới hơn 7 tỉ người mà sao Mec lại yêu anh <3',
     btnReply: 'Gửi cho anh <3',
     reply: 'Mec yêu anh nhiêu lắm hihi <33333333',
-    mess: 'Anh biết mà 🥰. Yêuec nhiều nhiều 😘😘',
+    mess: 'Anh biết mà 🥰. Yêu Mec nhiều nhiều 😘😘',
     messDesc: 'Hết dịch đi uống trà sữa nha anh rước hihihi.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://m.me/truchaynoilinhtinh' //https://m.me/Ngothientin
